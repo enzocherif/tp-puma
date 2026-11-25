@@ -1,0 +1,14 @@
+# Fichiers temporaires MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+*.original
+slprj/
+*_ert_rtw/*.obj
+# Python
+__pycache__/
+.ipynb_checkpoints/
+# Systeme
+desktop.ini
+Thumbs.db
+__MACOSX/
